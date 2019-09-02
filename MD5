@@ -1,6 +1,6 @@
-a6d291baa2cd7104c84e80757cf5b21d *DESCRIPTION
+98e7d04396c9300d225f9a38b4e7cc55 *DESCRIPTION
 6a86753c3a397bfa7ebef1f43a39a247 *NAMESPACE
-12715285a389b6282414df987e568cde *NEWS.md
+9c8b3de7e109b08e87fa199d6ffcf2ea *NEWS.md
 683c797cd6cb11b6298d3609366d1041 *R/RcppExports.R
 83c42df1f098f3f5cc81e040fcf78ee1 *R/gillespie.R
 23e88d9358838541c77a92f79a9d57f2 *R/log_likelihood.R
@@ -15,7 +15,7 @@ bcf94660a9fe1463ef1d018f14432456 *man/nlogL.Rd
 9213cc8f54ea0860222cdb4d578afba1 *src/Makevars.win
 69c415f7020bc8f5361ee4abf1b70232 *src/RcppExports.cpp
 e27fdbe96fefb77b0f786d775b559fb3 *src/gillespie.cpp
-d8a446fcf70d72b24116a96b71cf7069 *src/mpreal.h
+71e9260a9b7d6224af93174121f375f7 *src/mpreal.h
 1f415f1777a1e048fdb9868be3474d2d *src/pb.cpp
 59df3dc8a4af4cce808eb19a42af1e0e *src/scModels_init.c
 d0c19ea0391732a5d6df1e7efeb97a1c *src/shared.cpp
