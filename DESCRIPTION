@@ -1,13 +1,25 @@
 Package: scModels
 Title: Fitting Discrete Distribution Models to Count Data
-Version: 1.0.2
-DateNote: Previous CRAN version 1.0.1 on 2019-09-03
+Version: 1.0.3
+DateNote: Previous CRAN version 1.0.2 on 2021-02-26
 Maintainer: Lisa Amrhein <amrheinlisa@gmail.com>
 Authors@R: c(
-  person("Lisa", "Amrhein", email="amrheinlisa@gmail.com", role=c("aut", "cre")),
-  person("Kumar", "Harsha", email="kumar.harsha@tum.de", role="aut"),
-  person("Christiane", "Fuchs", email="christiane.fuchs@helmholtz-muenchen.de", role="aut"),
-  person("Pavel", "Holoborodko", email="pavel@holoborodko.com", role="ctb", comment="Author and copyright holder of 'mpreal.h'"))
+  person("Lisa", "Amrhein",
+        email="amrheinlisa@gmail.com",
+        role=c("aut", "cre"),
+        comment=c(ORCID="0000-0002-0370-624X")),
+  person("Kumar", "Harsha",
+        email="kumar.harsha@tum.de",
+        role="aut",
+        comment=c(ORCID="0000-0002-3865-5286")),
+  person("Christiane", "Fuchs",
+        email="christiane.fuchs@helmholtz-muenchen.de",
+        role="aut",
+        comment=c(ORCID="0000-0003-3565-8315")),
+  person("Pavel", "Holoborodko",
+        email="pavel@holoborodko.com",
+        role="ctb",
+        comment="Author and copyright holder of 'mpreal.h'"))
 License: GPL-3
 Description: Provides functions for fitting discrete distribution models to count data.
   Included are the Poisson, the negative binomial, the Poisson-inverse gaussian and, most importantly,
@@ -23,7 +35,6 @@ Description: Provides functions for fitting discrete distribution models to coun
   This package is supplement to the paper "A mechanistic model for the negative binomial distribution of single-cell mRNA counts" 
   by Lisa Amrhein, Kumar Harsha and Christiane Fuchs (2019) <doi:10.1101/657619> available on bioRxiv.
 Depends: R (>= 3.1.0)
-LazyData: true
 RoxygenNote: 6.1.1
 Suggests: knitr, rmarkdown, testthat
 LinkingTo: Rcpp
@@ -34,10 +45,10 @@ SystemRequirementsNote: 'MPFR' (MP Floating-Point Reliable Library,
         <http://mpfr.org/>) and 'GMP' (GNU Multiple Precision
         library,<http://gmplib.org/>)
 NeedsCompilation: yes
-Packaged: 2021-02-26 13:32:14 UTC; lisa.amrhein
-Author: Lisa Amrhein [aut, cre],
-  Kumar Harsha [aut],
-  Christiane Fuchs [aut],
+Packaged: 2022-03-29 13:44:59 UTC; lisa.amrhein
+Author: Lisa Amrhein [aut, cre] (<https://orcid.org/0000-0002-0370-624X>),
+  Kumar Harsha [aut] (<https://orcid.org/0000-0002-3865-5286>),
+  Christiane Fuchs [aut] (<https://orcid.org/0000-0003-3565-8315>),
   Pavel Holoborodko [ctb] (Author and copyright holder of 'mpreal.h')
 Repository: CRAN
-Date/Publication: 2021-02-26 14:10:02 UTC
+Date/Publication: 2022-03-29 21:50:10 UTC
