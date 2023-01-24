@@ -1,7 +1,7 @@
 Package: scModels
 Title: Fitting Discrete Distribution Models to Count Data
-Version: 1.0.3
-DateNote: Previous CRAN version 1.0.2 on 2021-02-26
+Version: 1.0.4
+DateNote: Previous CRAN version 1.0.3 on 2022-03-17
 Maintainer: Lisa Amrhein <amrheinlisa@gmail.com>
 Authors@R: c(
   person("Lisa", "Amrhein",
@@ -45,10 +45,10 @@ SystemRequirementsNote: 'MPFR' (MP Floating-Point Reliable Library,
         <http://mpfr.org/>) and 'GMP' (GNU Multiple Precision
         library,<http://gmplib.org/>)
 NeedsCompilation: yes
-Packaged: 2022-03-29 13:44:59 UTC; lisa.amrhein
+Packaged: 2023-01-23 21:12:52 UTC; lisa.amrhein
 Author: Lisa Amrhein [aut, cre] (<https://orcid.org/0000-0002-0370-624X>),
   Kumar Harsha [aut] (<https://orcid.org/0000-0002-3865-5286>),
   Christiane Fuchs [aut] (<https://orcid.org/0000-0003-3565-8315>),
   Pavel Holoborodko [ctb] (Author and copyright holder of 'mpreal.h')
 Repository: CRAN
-Date/Publication: 2022-03-29 21:50:10 UTC
+Date/Publication: 2023-01-24 08:20:02 UTC
